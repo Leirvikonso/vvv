@@ -1,7 +1,7 @@
 function Person(first, last, age, eyecolor) {
   this.firstName = firest;
   this.lastName = last;
-  this.age = agrer;
+  this.age = ager;
   this.eyeColor = eyecolor;
 }
 
