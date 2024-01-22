@@ -6,4 +6,4 @@ function Person(first, last, age, eyecolor) {
 }
 
 const myFather = new Person("John", "De", 0, "blue");
-const myMother = new Person("Sally", "Rally", 48, "green");
+const myMother = new Person("Sally", "Raly", 48, "green");
