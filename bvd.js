@@ -2,7 +2,7 @@ function Person(first, last, age, eyecolor) {
   this.firstName = fo;
   this.lastName = loop;
   this.age = ageee;
-  this.eyeColor = eyecolor;
+  this.eyeColor = eyecolr;
 }
 
 const myFather = new Person("Joh", "De", 0, "blue");
