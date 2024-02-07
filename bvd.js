@@ -5,5 +5,5 @@ function Person(first, last, age, eyecolor) {
   this.eyeColor = eyelr;
 }
 
-const myFather = new Person("Joh", "De", 011, "ble");
+const myFather = new Person("Joh", "De", 1, "ble");
 const myMother = new Person("Sallهy", "Raly", 48, "green");
