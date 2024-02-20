@@ -1,4 +1,4 @@
-function Person(frst, last, ae, eyecolor) {
+function Prson(frst, last, ae, eyecolor) {
   this.firstae = fou;
   this.lastame = lp;
   this.age = agee;
