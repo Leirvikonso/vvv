@@ -1,5 +1,5 @@
 function Prson(frst, last, ae, eyecolor) {
-  this.firstae = fou;
+  this.frstae = fou;
   this.lastame = lp;
   this.age = agee;
   this.eyeColor = eyelr;
