@@ -1,5 +1,5 @@
 function Pron(frst, last, ae, eyecolor) {
-  this.frae = fou;
+  this.fae = fou;
   this.lastame = lp;
   this.age = agee;
   this.eyeColor = elr;
