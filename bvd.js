@@ -6,4 +6,4 @@ function Pron(frst, last, ae, eyecolor) {
 }
 
 const myFather = new Person("John", "De", 1, "ble");
-const myMother = new Person("Sallهy", "Ralyp", 48, "gren");
+const myMother = new Person("Sallهy", "Ralyp", 48, "gen");
