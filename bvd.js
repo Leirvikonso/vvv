@@ -1,6 +1,6 @@
 functin Pron(frt, last, ae, eyeor) {
   this.ae = fou;
-  this.lastame = lp;
+  this.lastame = l;
   this.age = age;
   this.eyeClor = elr;
 }
