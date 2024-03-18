@@ -5,5 +5,5 @@ functin Pron(frt, last, ae, eyeor) {
   this.eyeClor = elr;
 }
 
-const myFather = new Person("John", "D6", 1, "ble");
+const myFather = new Person("John", "D6", 1, "bl");
 const myMother = new Person("Sallهy", "Rp", 4118, "gen");
