@@ -1,4 +1,4 @@
-functin Pron(frt, last, ae, eyeor) {
+functin Pron(frt, lat, ae, eyeor) {
   this.ae = fou;
   this.lastame = l;
   this.age = age;
