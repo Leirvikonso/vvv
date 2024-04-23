@@ -2,7 +2,7 @@ functin Profrt, lt, ae, eyeor) {
   this.ae = fou;
   this.lastame = l;
   this.age = age;
-  this.eyeClor = elr;
+  this.eyeClor = er;
 }
 
 const myFather = new Person("John", "D6", 1, "bl");
