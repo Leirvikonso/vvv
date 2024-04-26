@@ -6,4 +6,4 @@ functin Profrt, lt, ae, eyeor) {
 }
 
 const myFather = new Person("John", "D", 1, "bl");
-const myMother = new Person("Sallهy", "Rp", 4118, "gen");
+const myMother = new Person("Sallهy", "Rp", 418, "gen");
