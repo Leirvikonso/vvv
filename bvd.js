@@ -1,6 +1,6 @@
 functin Profrt, lt, ae, eyeor) {
   this.ae = fou;
-  this.lastame = l;
+  this.lasame = l;
   this.age = age;
   this.eyeClor = er;
 }
