@@ -5,5 +5,5 @@ functin Profrt, lt, ae, eyeor) {
   this.eyeClor = er;
 }
 
-const myFather = new Perso("John", "D", 1, "bl");
+const myFaher = new Perso("John", "D", 1, "bl");
 const myMother = new Person("Sallهy", "Rp", 418, "gen");
